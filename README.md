@@ -105,5 +105,54 @@ The **Social Media Campaign Performance Tracker** helps in:
 - Integrate predictive analytics for campaign success forecasting.
 
 ---
+# FUTURE_DS_03
+# 🎓 College Event Feedback Analysis
+
+This project analyzes student feedback from college events to uncover patterns, satisfaction levels, and improvement areas.  
+It uses **Python (Jupyter Notebook)** for data cleaning, analysis, and visualization.
+
+---
+
+## 🧾 Project Overview
+
+The **College Event Feedback Analysis** project focuses on:
+- Collecting and processing participant feedback data.
+- Analyzing satisfaction scores, engagement, and overall event effectiveness.
+- Identifying improvement areas based on audience sentiment.
+- Visualizing insights through charts and metrics.
+
+---
+
+## 📂 Files Included
+
+- `TASK3-College_Event_Feedback_Analysis.ipynb` → Main Jupyter Notebook containing code, visualizations, and insights.
+
+---
+
+## 🧠 Key Insights (Example)
+
+> *(Replace or edit these based on your notebook’s output)*
+
+- **Overall satisfaction:** 85% of attendees rated the event positively.  
+- **Top-rated aspects:** Event organization and speaker quality.  
+- **Improvement areas:** Event timing and post-event communication.  
+- **Sentiment trend:** Positive feedback dominated across all sessions.
+
+---
+
+## 🧰 Tools & Libraries Used
+
+- **Python** (Jupyter Notebook)
+- **Pandas** – for data cleaning and manipulation  
+- **NumPy** – for statistical analysis  
+- **Matplotlib / Seaborn** – for data visualization  
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/College-Event-Feedback-Analysis.git
+   ---
 
 
