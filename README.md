@@ -49,4 +49,61 @@ The dataset contains **E-Commerce sales records** including:
 
 ---
 
+# FUTURE_DS_02
+# 📊 Social Media Campaign Performance Tracker
+
+This project is a **Social Media Campaign Performance Tracker**, designed to monitor and analyze the effectiveness of various social media campaigns.  
+It includes performance metrics, visual analytics, and insights that help marketing teams make data-driven decisions.
+
+---
+
+## 🧾 Project Overview
+
+The **Social Media Campaign Performance Tracker** helps in:
+- Tracking key campaign performance indicators such as reach, engagement, impressions, and conversion rates.
+- Comparing performance across platforms (e.g., Facebook, Instagram, Twitter, LinkedIn).
+- Visualizing trends to identify the best-performing campaigns and areas for improvement.
+- Supporting decision-making for optimizing ad spending and content strategies.
+
+---
+
+## 📁 Contents
+
+- `TASK2-SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER.pdf` – Main project document containing detailed analysis, visual dashboards, and findings.
+
+---
+
+## 🧠 Key Insights (Example)
+
+> *(You can edit this section based on your project results)*
+
+- Instagram campaigns showed the **highest engagement rate**.
+- LinkedIn had the **best conversion-to-lead ratio**.
+- Twitter performed better for **brand awareness** than conversions.
+- Weekday posts between **6 PM – 9 PM** generated the most audience interaction.
+
+---
+
+## ⚙️ Tools & Technologies Used
+
+- **Microsoft Excel  – for data cleaning and analysis  
+- **Power BI  – for visualization and dashboard creation  
+---
+
+## 🚀 How to Use
+
+1. Open the `TASK2-SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER.pdf` file.
+2. Review the campaign performance data and charts.
+3. Use insights from the report to adjust your social media marketing strategy.
+
+---
+
+## 📈 Future Improvements
+
+- Automate data collection using APIs (Facebook, Instagram, etc.)
+- Build an interactive web dashboard with real-time updates.
+- Integrate predictive analytics for campaign success forecasting.
+
+---
+
 
