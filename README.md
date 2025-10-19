@@ -86,8 +86,8 @@ The **Social Media Campaign Performance Tracker** helps in:
 
 ## ⚙️ Tools & Technologies Used
 
-- **Microsoft Excel  – for data cleaning and analysis  
-- **Power BI  – for visualization and dashboard creation  
+- Microsoft Excel  – for data cleaning and analysis  
+- Power BI  – for visualization and dashboard creation  
 ---
 
 ## 🚀 How to Use
